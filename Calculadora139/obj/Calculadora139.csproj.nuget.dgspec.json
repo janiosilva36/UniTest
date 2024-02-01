@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Iterasys\\UniTest\\Calculadora139\\Calculadora139.csproj": {}
+    "C:\\Iterasys\\unitest\\Calculadora139\\Calculadora139.csproj": {}
   },
   "projects": {
-    "C:\\Iterasys\\UniTest\\Calculadora139\\Calculadora139.csproj": {
+    "C:\\Iterasys\\unitest\\Calculadora139\\Calculadora139.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Iterasys\\UniTest\\Calculadora139\\Calculadora139.csproj",
+        "projectUniqueName": "C:\\Iterasys\\unitest\\Calculadora139\\Calculadora139.csproj",
         "projectName": "Calculadora139",
-        "projectPath": "C:\\Iterasys\\UniTest\\Calculadora139\\Calculadora139.csproj",
+        "projectPath": "C:\\Iterasys\\unitest\\Calculadora139\\Calculadora139.csproj",
         "packagesPath": "C:\\Users\\janio\\.nuget\\packages\\",
-        "outputPath": "C:\\Iterasys\\UniTest\\Calculadora139\\obj\\",
+        "outputPath": "C:\\Iterasys\\unitest\\Calculadora139\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janio\\AppData\\Roaming\\NuGet\\NuGet.Config"

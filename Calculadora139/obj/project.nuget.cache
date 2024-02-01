@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlOvwnNQiLbn+66+uDb50Ml068V6X8p5p0kQKtJr/9RgBMEJj5I+FxyrQKPyKjzmXyjayrLauUm/88955CbS1g==",
+  "dgSpecHash": "c8ycPGgK0u8dqVmLiBZHYHm/Gak7CJWyqdwPsfMr5P4I8uv7yN+bYfYEkmzBUxpLHL2FeUPdDk6NNV92QVdHbg==",
   "success": true,
-  "projectFilePath": "C:\\Iterasys\\UniTest\\Calculadora139\\Calculadora139.csproj",
+  "projectFilePath": "C:\\Iterasys\\unitest\\Calculadora139\\Calculadora139.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

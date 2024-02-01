@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7LpEb8sB7cAKaZKQ0bu5eLP5bbFm/y39CR0UtXpkbtEIJoYv5OZ5WfZ9IPz0xwhKTgeXCzpsVPQ1mb14tku7Lw==",
+  "dgSpecHash": "hUp8fSs0uD0cwamEGuuWY9Raj3F4WqMN4+6hhmQ4DtjVbxy+Z+jPLVw/fB+qSSDG7VUSivraI8/OZtzUViGoBg==",
   "success": true,
-  "projectFilePath": "C:\\Iterasys\\UniTest\\Calculadora139.Tests\\Calculadora139.Tests.csproj",
+  "projectFilePath": "C:\\Iterasys\\unitest\\Calculadora139.Tests\\Calculadora139.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janio\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\janio\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
